@@ -44,7 +44,7 @@ var firebaseConfig = {
     <td>${telefono}</td>
     <td>${fecha}</td>
     <td>${personas}</td>
-    <td><button class="btnEditar btn btn-warning" data-toggle="tooltip" title="Editar">${iconoEditar}</button><button class="btnBorrar btn btn-primary" data-toggle="tooltip" title="Borrar">${iconoBorrar}</button></td>
+    <td><button class="btnEditar btn btn-primary" data-toggle="tooltip" title="Editar">${iconoEditar}</button><button class="btnBorrar btn btn-danger" data-toggle="tooltip" title="Borrar">${iconoBorrar}</button></td>
     `
   };
 
